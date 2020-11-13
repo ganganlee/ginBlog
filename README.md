@@ -16,7 +16,8 @@
 /-route #路由
 /-service #逻辑层
 /-tool #公共函数层
-main.go 入口文件
+main.go #入口文件
+vue-blog.rar #前端vue模板
 ```
 ## 路由地址参考
 
