@@ -1,0 +1,16 @@
+{
+  "app_name": "ginBlog",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": ":8091",
+  "database": {
+    "driver": "mysql",
+    "user": "blogV2.zozoo.net",
+    "password": "blogV2.zozoo.net",
+    "host": "123.206.201.139",
+    "port": "3306",
+    "db_name": "blogV2.zozoo.net",
+    "charset": "utf8mb4",
+    "show_sql": true
+  }
+}
