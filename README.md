@@ -1,6 +1,11 @@
 # ginBlog
 >基于gin开发的博客API接口，使用jwt进行验证和登陆
-## 目录结构
+## 使用方法
+- git clone https://github.com/ganganlee/ginBlog.git
+- go mod tidy
+- 修改/config/config.json里面的配置文件
+- 直接运行或者编译（编译参考：https://blog.csdn.net/weixin_44540711/article/details/109682597）
+## 目录结构参考
 
 ```bash
 /-config #配置文件
@@ -13,7 +18,7 @@
 /-tool #公共函数层
 main.go 入口文件
 ```
-## 路由地址
+## 路由地址参考
 
 ```bash
 	//用户模块
